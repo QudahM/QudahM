@@ -3,7 +3,7 @@
 
 <h3>🌐 About Me</h3>
 <p>As a relentless seeker of technical excellence, I thrive on challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous approach to coding, I am dedicated to producing high-quality, scalable, and maintainable software.</p>
-- 🔭 I’m currently working on [My-Developer-Portfolio](https://github.com/QudahM/My-Developer-Portfolio)
+- 🔭 I’m currently working on My-Developer-Portfolio (https://github.com/QudahM/My-Developer-Portfolio)
 
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
