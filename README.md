@@ -1,5 +1,4 @@
-### 
-Mohammad Qudah - Software Developer Extraordinaire 👨‍💻
+ ###Mohammad Qudah - Software Developer Extraordinaire 👨‍💻
 Greetings and welcome to my GitHub sanctuary! I'm Mohammad Qudah, a student software developer with a passion for crafting elegant solutions to complex problems. Within these virtual halls, you'll find a curated collection of my work, reflecting a commitment to precision, efficiency, and innovation.
 
 🌐 About Me
