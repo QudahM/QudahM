@@ -5,7 +5,7 @@
 <p>As a relentless seeker of technical excellence, I thrive on challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous approach to coding, I am dedicated to producing high-quality, scalable, and maintainable software.</p>
 - 🔭 I’m currently working on [My-Developer-Portfolio](https://github.com/QudahM/My-Developer-Portfolio)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/qudahm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qudahm" height="30" width="40" /></a>
 </p>
