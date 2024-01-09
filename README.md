@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Qudah</h1>
-<h3 align="center">Software Developer Extraordinaire 👨‍💻</h3>
+<h3 align="center">Software Developer 👨‍💻</h3>
 
 <h3>🌐 About Me</h3>
 <p>As a relentless seeker of technical excellence, I thrive on challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous approach to coding, I am dedicated to producing high-quality, scalable, and maintainable software.</p>
