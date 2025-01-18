@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Qudah</h1>
-<h3 align="center">Software Developer 👨‍💻</h3>
+<h1 align="center">Hello 👋, I'm Mohammad Qudah</h1>
+<h3 align="center">Software Engineer 👨‍💻</h3>
 
 <h3>🌐 About Me</h3>
 <p>I'm a seeker of technical advancements, I thrive on challenges that push the boundaries of what's possible. With a solid software architecture foundation and a meticulous coding approach, I am dedicated to producing high-quality, scalable, and maintainable software.</p>
