@@ -78,6 +78,7 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
 </p>
 
 
-
 <h3>🤝 Let's Connect!</h3>
-<a href="https://linkedin.com/in/qudahm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qudahm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/qudahm" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qudahm" />
+</a>
