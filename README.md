@@ -5,7 +5,7 @@
 I'm a seeker of technical advancements, thriving on challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous coding approach, I am dedicated to producing high-quality, scalable, and maintainable software. My experience spans building scalable microservices, optimizing system performance, and developing user-centric applications.</p>
 
 <h3>🔭 Ongoing Projects</h3>
-- I’m currently working on improving <a href="https://github.com/QudahM/My-Developer-Portfolio">My-Developer-Portfolio</a>, showcasing my skills and projects.<br>
+- I’m currently working on improving <a href="https://github.com/QudahM/My-Developer-Portfolio">My-Developer-Portfolio</a>, showcasing my experience, skills and projects.<br>
 - I'm also working on a <a href="https://github.com/QudahM/To-Do-List">React To-Do List Project</a> to help users efficiently manage tasks.
 
 <h3 align="left">🖥️ Languages and Tools I'm Experienced and Interested In</h3>
