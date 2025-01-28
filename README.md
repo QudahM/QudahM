@@ -21,6 +21,9 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" title="HTML5">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -39,6 +42,9 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   </a>
   <a href="https://nodejs.org" target="_blank" title="Node.js">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   </a>
   <a href="https://angular.io/" target="_blank" title="Angular">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
