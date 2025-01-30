@@ -83,6 +83,11 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   </a>
 </p>
 
+<h3>🤝 Let's Connect!</h3>
+<a href="https://linkedin.com/in/qudahm" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qudahm" />
+</a>
+
 <h3>📊 GitHub Stats & Activity</h3>
 
 <p align="center">
@@ -90,9 +95,3 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=QudahM&theme=dark&hide_border=true" alt="QudahM's GitHub Streak" />
   </a>
 </p>
-
-
-<h3>🤝 Let's Connect!</h3>
-<a href="https://linkedin.com/in/qudahm" target="blank">
-  <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qudahm" />
-</a>
