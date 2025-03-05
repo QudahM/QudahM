@@ -45,11 +45,11 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   </a>
-  <a href="https://angular.io/" target="_blank" title="Angular">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <a href="https://nextjs.org/" target="_blank" title="Next.js">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   </a>
-  <a href="https://sass-lang.com/" target="_blank" title="Sass">
-    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
   <a href="https://kafka.apache.org/" target="_blank" title="Kafka">
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
