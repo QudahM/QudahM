@@ -17,6 +17,9 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   <a href="https://www.python.org" target="_blank" title="Python">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" title="C#">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
@@ -28,9 +31,6 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" title="CSS3">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" title="C#">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   </a>
 </p>
 
