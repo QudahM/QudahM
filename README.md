@@ -71,6 +71,9 @@ I'm a seeker of technical advancements, thriving on challenges that push the bou
 
 <h4><b>🚀 DevOps & Tools</b></h4>
 <p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" title="AWS">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
