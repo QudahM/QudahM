@@ -5,7 +5,7 @@
 I'm a seeker of technical advancements, thriving on challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous coding approach, I am dedicated to producing high-quality, scalable, and maintainable software. My experience spans building scalable microservices, optimizing system performance, and developing user-centric applications.</p>
 
 <h3>🔭 Ongoing Projects</h3>
-- I’m always enhancing <a href="https://github.com/QudahM/My-Developer-Portfolio"> RoomChangeAI </a>. This website helps users envision a new look for their room by using AI and integrating advanced tools like React to improve functionality and user experience.<br>
+- I’m always enhancing <a href="https://github.com/QudahM/RoomChangeAI"> RoomChangeAI </a>. This website helps users envision a new look for their room by using AI and integrating advanced tools like React to improve functionality and user experience.<br>
 
 <h3 align="left">🖥️ Languages and Tools I'm Experienced and Interested In</h3>
 
