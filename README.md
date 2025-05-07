@@ -53,19 +53,6 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
   </a>
 </p>
 
-<h4><b>Databases</b></h4>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" title="Oracle">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  </a>
-</p>
-
 <h4><b>DevOps & Tools</b></h4>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank" title="AWS">
@@ -82,6 +69,19 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
   </a>
   <a href="https://www.jenkins.io/" target="_blank" title="Jenkins">
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  </a>
+</p>
+
+<h4><b>Databases</b></h4>
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" title="Oracle">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   </a>
 </p>
 
