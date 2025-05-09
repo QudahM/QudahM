@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer </h3>
 
 <h3>About Me</h3>
-I seek challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous coding approach, I am dedicated to producing high-quality, scalable, and maintainable software. My experience spans building scalable microservices, optimizing system performance, and developing user-centric applications.</p>
+I seek challenges that push the boundaries of what's possible. With a solid foundation in software architecture and a meticulous coding approach, I am dedicated to producing high-quality, scalable, and maintainable software. My experience spans building scalable microservices, optimizing system performance, and developing user-friendly applications.</p>
 
 <h3 align="left">Languages and Tools I'm Experienced and Interested In</h3>
 
