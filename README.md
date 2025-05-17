@@ -90,7 +90,7 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
   <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qudahm" />
 </a>
 
-<h3>GitHub Stats & Activity</h3>
+<h3>GitHub Stats</h3>
 
 <p align="center">
   <a href="https://github.com/QudahM">
