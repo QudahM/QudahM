@@ -89,11 +89,3 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
 <a href="https://linkedin.com/in/qudahm" target="blank">
   <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="qudahm" />
 </a>
-
-<h3>GitHub Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/QudahM">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=QudahM&theme=dark&hide_border=true" alt="QudahM's GitHub Streak" />
-  </a>
-</p>
