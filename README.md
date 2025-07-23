@@ -58,6 +58,9 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
   <a href="https://aws.amazon.com/" target="_blank" title="AWS">
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </a>
+  <a href="https://cloud.google.com/" target="_blank" title="Google Cloud Platform">
+    <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
+  </a>
   <a href="https://www.docker.com/" target="_blank" title="Docker">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </a>
@@ -79,9 +82,6 @@ I seek challenges that push the boundaries of what's possible. With a solid foun
   </a>
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" title="Oracle">
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
   </a>
 </p>
 
